@@ -1,8 +1,12 @@
-# Happy-gitting-
+# Happy-gitting
+
+whats up this is nate doggy dog
 
 Just try out the git thing and enjoy gitting!
 
 Here is a cute dolphin:
+
+wawaweewa
 
 ![A cute dolphi](cute-dolphin.jpeg)
 
